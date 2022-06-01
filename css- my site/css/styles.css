@@ -1,0 +1,136 @@
+.top-container{
+    background-color: #BDE6F1;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 0px;
+    
+
+
+
+
+}
+.programmer{
+    font-size: 40px;
+    margin-bottom: 15px;
+
+
+
+}
+.pro{
+    text-decoration: underline;
+    font-weight: bold;
+    
+
+
+
+}
+body{
+    text-align: center;
+    font-size: 20px;
+
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 400px;
+    top: 100px;
+
+
+
+
+}
+.bottom-cloud{
+    position: absolute;
+    left: 400px;
+    bottom: 400px;
+
+
+
+
+}
+
+h1,h2{
+    margin: 0,auto,0,auto;
+    font-family: 'Permanent Marker', cursive;
+    color:  #66BFBF;
+
+
+}
+h1{
+    line-height: 2;
+
+
+}
+
+h2{
+    font-weight: normal;
+
+
+
+}
+
+h3{
+    font-family: 'Ubuntu Mono', monospace;
+    color: #11999E;
+
+
+}
+p {
+ font-family:'Courier Prime', monospace;
+
+}
+
+.bruce{
+    margin-top: 50px;
+
+
+}
+.karate{
+    margin-top: 50px;
+    width: 25%;
+
+
+
+}
+.hacker{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+
+
+}
+
+
+.profile{
+    margin-bottom: 0%;
+
+    
+
+
+}
+.name{
+    font-size: 5.625rem;
+
+
+
+}
+
+.footer-link{
+    background-color: #11999E;
+
+
+
+}
+.skills{
+    width: 50%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    line-height: 2;
+
+
+
+}
